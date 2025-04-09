@@ -1,0 +1,1 @@
+import{_ as o}from"./BsMzR3Hf.js";import{c as n,a,b as s,w as r,o as _,d as l}from"./CX6xQ8uG.js";const d={__name:"index",setup(u){return console.log("Клиент"),(m,t)=>{const e=o;return _(),n("div",null,[t[1]||(t[1]=a("h1",null,"Привет, это статический сайт на Nuxt!",-1)),s(e,{to:"/about"},{default:r(()=>t[0]||(t[0]=[l("О нас")])),_:1})])}}};export{d as default};
